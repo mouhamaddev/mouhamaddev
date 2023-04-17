@@ -69,3 +69,5 @@
 <a href="https://www.buymeacoffee.com/mouhamaddev" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 33px !important;width: 116px !important;">
 </a>
+
+![GitHub Snake Light](https://github.com/BorislavChernev/BorislavChernev/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
