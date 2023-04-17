@@ -70,4 +70,4 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 33px !important;width: 116px !important;">
 </a>
 
-![GitHub Snake Light](https://github.com/BorislavChernev/BorislavChernev/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+![GitHub Snake Light]([https://github.com/BorislavChernev/BorislavChernev/blob/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/BorislavChernev/BorislavChernev/9c919a821ffbc0c19e8952e0404d706ca06d017f/github-contribution-grid-snake-dark.svg)#gh-light-mode-only)
