@@ -71,3 +71,6 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 33px !important;width: 116px !important;">
 </a>
 
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mouhamaddev&theme=tokyonight&hide_border=true">
+</a>
