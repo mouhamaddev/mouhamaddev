@@ -1,4 +1,5 @@
-# 🚀 Django and DRF Specialist | DevOps and Cloud Computing
+# 🚀 Django and DRF Specialist | ⚙️ DevOps and Cloud Computing | 🐧 Linux Addict
+
 
 <p align="center">
   <a href="https://github.com/mouhamaddev">
