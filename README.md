@@ -15,10 +15,10 @@
 
 <img src="https://user-images.githubusercontent.com/63449913/132381820-24d326af-140d-46da-87db-f53c5871de32.gif" width="60px" alt="peace"> 
 
-- 👀 I’m interested in Back End Development
-- 🔭 I’m currently developing with Python, PHP, JS, and C++
+- 👀 I’m interested in Django and DRF and DevOps
+- 🔭 I’m currently developing with Python, PHP and C++
 - 📫 How to reach me: https://www.linkedin.com/in/mohamed-masri-1416811a7/
-- I use Gentoo and Arch btw :)
+- 🐧 I use Gentoo and Arch btw :)
 
 #### Top Languages
 
