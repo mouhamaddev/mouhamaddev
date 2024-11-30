@@ -21,7 +21,7 @@ My name is Mohammad Massri, and I’m a software engineer with a deep obsession 
 <p>
   <a href="https://pypi.org/project/ascibar/" style="text-decoration:none;">
     <button style="padding:10px 15px; font-size:14px; color:white; background-color:#007BFF; border:none; border-radius:5px; cursor:pointer;">
-      Check Out Ascibar &nbsp; 🐍
+      Check out Ascibar &nbsp; 🐍
     </button>
   </a>
 </p>
