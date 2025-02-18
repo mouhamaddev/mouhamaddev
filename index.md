@@ -1,6 +1,16 @@
 ## About me
 
-My name is Mohammad Massri, and I’m a software engineer with a deep obsession for software engineering and Linux. My passion extends to systems design and development, and I’m currently aiming for software management roles in the short term. My long-term goal is to become a CTO 🚀
+<div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap;">
+  <img src="https://avatars.githubusercontent.com/u/65947373?v=4" alt="Mohammad Massri" width="120" 
+       style="border-radius: 50%; margin-right: 15px; margin-bottom: 10px; flex-shrink: 0;">
+  <p style="margin: 0; flex: 1; min-width: 250px;">
+    My name is Mohammad Massri, and I’m a software engineer with a deep obsession for software engineering and Linux. 
+    My passion extends to systems design and development, and I’m currently aiming for software management roles in the short term. 
+    My long-term goal is to become a CTO 🚀
+  </p>
+</div>
+
+<br>
 
 <p>
   <a href="https://mouhamaddev.github.io/Code-Memo/" style="text-decoration:none;">
