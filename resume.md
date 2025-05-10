@@ -35,8 +35,6 @@ Experienced backend developer proficient in Python, specializing in server-side 
 - Used Django to create a secure and performant backend.  
 - Collaborated with the team to enhance features based on technician feedback.
 
----
-
 ### **Backend Developer**  
 **Waffershop**  
 *Apr 2023 – Sep 2024*  
@@ -46,8 +44,6 @@ Experienced backend developer proficient in Python, specializing in server-side 
 - Ensured backend stability through unit and integration testing.  
 - Mentored junior developers on best practices in Git and clean code.  
 - Participated in code reviews and team collaboration meetings to improve code quality.
-
----
 
 ### **Mobile App Developer (Freelance)**  
 **freelancer.com**  
