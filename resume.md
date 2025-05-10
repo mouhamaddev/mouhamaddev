@@ -3,7 +3,6 @@
 📍 Tripoli, Lebanon  
 📞 +961 81462533  
 📧 mouhamaddev04@gmail.com  
-🌐 [Portfolio](https://mouhamaddev.github.io/mouhamaddev/)  
 
 <p>
   <a href="" style="text-decoration:none;">
