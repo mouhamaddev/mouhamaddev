@@ -13,17 +13,17 @@
 <br>
 
 <p>
-  <a href="https://mouhamaddev.github.io/Code-Memo/" style="text-decoration:none;">
+  <a href="https://mouhamaddev.github.io/mouhamaddev/resume.html" style="text-decoration:none;"><!--https://drive.google.com/file/d/1JsHFiupaxvGCN8JjpLnxKrRqlhYzWfLQ/view?usp=sharing-->
     <button style="padding:10px 15px; font-size:14px; color:white; background-color:#007BFF; border:none; border-radius:5px; cursor:pointer;">
-      Take Me to Code Memo &nbsp; ✏️
+      Take Me to my Resume &nbsp; 🖥️
     </button>
   </a>
 </p>
 
 <p>
-  <a href="https://mouhamaddev.github.io/mouhamaddev/resume.html" style="text-decoration:none;"><!--https://drive.google.com/file/d/1JsHFiupaxvGCN8JjpLnxKrRqlhYzWfLQ/view?usp=sharing-->
+  <a href="https://mouhamaddev.github.io/Code-Memo/" style="text-decoration:none;">
     <button style="padding:10px 15px; font-size:14px; color:white; background-color:#007BFF; border:none; border-radius:5px; cursor:pointer;">
-      Take Me to my Resume &nbsp; 🖥️
+      Take Me to Code Memo &nbsp; ✏️
     </button>
   </a>
 </p>
