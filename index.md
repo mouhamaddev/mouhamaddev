@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  <a href="https://drive.google.com/file/d/1JsHFiupaxvGCN8JjpLnxKrRqlhYzWfLQ/view?usp=sharing" style="text-decoration:none;">
+  <a href="https://mouhamaddev.github.io/mouhamaddev/resume.html" style="text-decoration:none;"><!--https://drive.google.com/file/d/1JsHFiupaxvGCN8JjpLnxKrRqlhYzWfLQ/view?usp=sharing-->
     <button style="padding:10px 15px; font-size:14px; color:white; background-color:#007BFF; border:none; border-radius:5px; cursor:pointer;">
       Take Me to my Resume &nbsp; 🖥️
     </button>
