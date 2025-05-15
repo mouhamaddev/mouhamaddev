@@ -1,3 +1,5 @@
+<div id="resume">
+
 # Mohammad Massri
 **Backend Developer**  
 📍 Tripoli, Lebanon  
@@ -5,11 +7,9 @@
 📧 mouhamaddev04@gmail.com  
 
 <p>
-  <a href="" style="text-decoration:none;">
-    <button style="padding:10px 15px; font-size:14px; color:white; background-color:#007BFF; border:none; border-radius:5px; cursor:pointer;">
-      Download PDF
-    </button>
-  </a>
+  <button onclick="downloadPDF()" style="padding:10px 15px; font-size:14px; color:white; background-color:#007BFF; border:none; border-radius:5px; cursor:pointer;">
+    Download PDF
+  </button>
 </p>
 
 ## Summary
@@ -50,4 +50,32 @@ Experienced backend developer proficient in Python, specializing in server-side 
 *Aug 2021 – Jan 2023*  
 - Delivered multiple React Native mobile apps across industries.  
 - Contributed to *iSeaTree*, a citizen science app for tree tracking using AR (DBH calculation).  
-- Developed an Uber clone app with complete booking and ride interface for users and drivers.
+- Developed an Uber clone app with complete booking and ride interface for users and drivers.  
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<script>
+  function downloadPDF() {
+    const resume = document.getElementById('resume');
+    const button = document.querySelector('button');
+    button.style.display = 'none';
+
+    resume.style.fontSize = '12px';
+    resume.style.margin = '0.5in';
+
+    const opt = {
+      margin:       0.3,
+      filename:     'Mohammad_Massri_Resume.pdf',
+      image:        { type: 'jpeg', quality: 0.98 },
+      html2canvas:  { scale: 2 },
+      jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' }
+    };
+
+    html2pdf().set(opt).from(resume).save().then(() => {
+      button.style.display = 'inline-block';
+      resume.style.fontSize = '';
+      resume.style.margin = '';
+    });
+  }
+</script>
