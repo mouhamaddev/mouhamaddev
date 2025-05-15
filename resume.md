@@ -97,21 +97,22 @@
     const button = document.querySelector('button');
     button.style.display = 'none';
 
-    resume.style.fontSize = '12px';
-    resume.style.margin = '0.5in';
+    resume.style.fontSize = '11px';
+    resume.style.lineHeight = '1.2';
+    resume.style.padding = '0.3in';
+    resume.style.maxWidth = '800px';
+    resume.style.margin = 'auto';
 
     const opt = {
-      margin:       0.3,
+      margin:       0,
       filename:     'Mohammad_Massri_Resume.pdf',
-      image:        { type: 'jpeg', quality: 0.98 },
-      html2canvas:  { scale: 2 },
+      image:        { type: 'jpeg', quality: 0.99 },
+      html2canvas:  { scale: 4, useCORS: true },
       jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' }
     };
 
     html2pdf().set(opt).from(resume).save().then(() => {
       button.style.display = 'inline-block';
-      resume.style.fontSize = '';
-      resume.style.margin = '';
     });
   }
 </script>
