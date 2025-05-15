@@ -1,56 +1,92 @@
+<head>
+  <meta charset="UTF-8">
+  <title>Mohammad Massri - Backend Developer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+    }
+    h1, h2, h3 {
+      color: #333;
+    }
+    .button-container {
+      margin-top: 10px;
+    }
+    .download-btn {
+      padding: 10px 15px;
+      font-size: 14px;
+      color: white;
+      background-color: #007BFF;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+  </style>
+  
 <div id="resume">
 
-# Mohammad Massri
-**Backend Developer**  
-📍 Tripoli, Lebanon  
-📞 +961 81462533  
-📧 mouhamaddev04@gmail.com  
+<h1>Mohammad Massri</h1>
+  <p><strong>Backend Developer</strong></p>
+  <p>📍 Tripoli, Lebanon<br>
+     📞 +961 81462533<br>
+     📧 mouhamaddev04@gmail.com</p>
 
-<p>
-  <button onclick="downloadPDF()" style="padding:10px 15px; font-size:14px; color:white; background-color:#007BFF; border:none; border-radius:5px; cursor:pointer;">
-    Download PDF
-  </button>
-</p>
+  <div class="button-container">
+    <button class="download-btn" onclick="downloadPDF()">Download PDF</button>
+  </div>
 
-## Summary
-Experienced backend developer proficient in Python, specializing in server-side applications, database management, and API development.
+  <h2>Summary</h2>
+  <p>Experienced backend developer proficient in Python, specializing in server-side applications, database management, and API development.</p>
 
-## Skills
-- Python
-- Django & Django REST Framework
-- PHP
-- MySQL
-- REST API Design
-- Linux
-- Git & Version Control
-- Docker & Containerization
+  <h2>Skills</h2>
+  <ul>
+    <li>Python</li>
+    <li>Django & Django REST Framework</li>
+    <li>PHP</li>
+    <li>MySQL</li>
+    <li>REST API Design</li>
+    <li>Linux</li>
+    <li>Git & Version Control</li>
+    <li>Docker & Containerization</li>
+  </ul>
 
-## Experience
+  <h2>Experience</h2>
 
-### **Backend Developer**  
-**WZTechno**  
-*Sep 2024 – Present*  
-- Built a Technician Management System for a laptop/electronics repair company.  
-- Developed features to manage technician tasks, repair orders, and reporting tools.  
-- Used Django to create a secure and performant backend.  
-- Collaborated with the team to enhance features based on technician feedback.
+  <h3>Backend Developer</h3>
+  <p><strong>WZTechno</strong><br>
+  <em>Sep 2024 – Present</em></p>
+  <ul>
+    <li>Built a Technician Management System for a laptop/electronics repair company.</li>
+    <li>Developed features to manage technician tasks, repair orders, and reporting tools.</li>
+    <li>Used Django to create a secure and performant backend.</li>
+    <li>Collaborated with the team to enhance features based on technician feedback.</li>
+  </ul>
 
-### **Backend Developer**  
-**Waffershop**  
-*Apr 2023 – Sep 2024*  
-- Led backend development for ERP systems and mobile app dashboards.  
-- Utilized Django, DRF, and Angular to streamline operational workflows.  
-- Deployed apps using Docker, EC2, and AWS services (S3, etc).  
-- Ensured backend stability through unit and integration testing.  
-- Mentored junior developers on best practices in Git and clean code.  
-- Participated in code reviews and team collaboration meetings to improve code quality.
+  <h3>Backend Developer</h3>
+  <p><strong>Waffershop</strong><br>
+  <em>Apr 2023 – Sep 2024</em></p>
+  <ul>
+    <li>Led backend development for ERP systems and mobile app dashboards.</li>
+    <li>Utilized Django, DRF, and Angular to streamline operational workflows.</li>
+    <li>Deployed apps using Docker, EC2, and AWS services (S3, etc).</li>
+    <li>Ensured backend stability through unit and integration testing.</li>
+    <li>Mentored junior developers on best practices in Git and clean code.</li>
+    <li>Participated in code reviews and team collaboration meetings to improve code quality.</li>
+  </ul>
 
-### **Mobile App Developer (Freelance)**  
-**freelancer.com**  
-*Aug 2021 – Jan 2023*  
-- Delivered multiple React Native mobile apps across industries.  
-- Contributed to *iSeaTree*, a citizen science app for tree tracking using AR (DBH calculation).  
-- Developed an Uber clone app with complete booking and ride interface for users and drivers.  
+  <h3>Mobile App Developer (Freelance)</h3>
+  <p><strong>freelancer.com</strong><br>
+  <em>Aug 2021 – Jan 2023</em></p>
+  <ul>
+    <li>Delivered multiple React Native mobile apps across industries.</li>
+    <li>Contributed to <em>iSeaTree</em>, a citizen science app for tree tracking using AR (DBH calculation).</li>
+    <li>Developed an Uber clone app with complete booking and ride interface for users and drivers.</li>
+  </ul>
 
 </div>
 
