@@ -4,9 +4,7 @@
   <img src="1692183109921.jpg" alt="Mohammad Massri" width="120" 
        style="border-radius: 50%; margin-right: 15px; margin-bottom: 10px; flex-shrink: 0;">
   <p style="margin: 0; flex: 1; min-width: 250px;">
-    My name is Mohammad Massri, and I’m a software engineer with a deep obsession for software engineering and Linux. 
-    My passion extends to systems design and development, and I’m currently aiming for software management roles in the short term. 
-    My long-term goal is to become a CTO 🚀
+    Hi, I'm Mohammad Massri, a software engineer specializing in API design & development.
   </p>
 </div>
 
