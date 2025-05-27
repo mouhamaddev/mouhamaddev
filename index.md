@@ -1,7 +1,7 @@
 ## About me
 
 <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap;">
-  <img src="1692183109921.jpg" alt="Mohammad Massri" width="120" 
+  <img src="1692183109921.jpg" alt="Mohammad Massri" width="60" 
        style="border-radius: 50%; margin-right: 15px; margin-bottom: 10px; flex-shrink: 0;">
   <p style="margin: 0; flex: 1; min-width: 250px;">
     Hi, I'm Mohammad Massri, a software engineer specializing in API design & development.
